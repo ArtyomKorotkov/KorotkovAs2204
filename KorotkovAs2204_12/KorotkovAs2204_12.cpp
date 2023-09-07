@@ -1,15 +1,15 @@
 ﻿
-
 #include <iostream>
+using namespace std;
 
 int main()
 {   
     int x;
     int y;
-    std::cout << "Hello World!\n";
-    std::cout << "Input x:";
-    std::cin >> x;
-    std::cout << "Input y:";
-    std::cin >> y;
-    std::cout << "Summa:" << x+y << std::endl;
+    cout << "Hello World!\n";
+    cout << "Input x:";
+    cin >> x;
+    cout << "Input y:";
+    cin >> y;
+    cout << "Summa:" << x+y;
 }
