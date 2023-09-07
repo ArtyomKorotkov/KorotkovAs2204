@@ -12,4 +12,5 @@ int main()
     cout << "Input y:";
     cin >> y;
     cout << "Summa:" << x+y;
+
 }
